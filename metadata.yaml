@@ -1,4 +1,5 @@
 _repo: History-of-Embalming-and-of-Preparations-in-Anatomy-Pathology-and-Natural-Hiistory_48078
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Harlan, Richard
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '44610'
     url: http://www.gutenberg.org/2009/agents/44610
     wikipedia: http://en.wikipedia.org/wiki/Richard_Harlan
+covers:
+- cover_type: archival
+  image_path: 48078-h/images/cover.jpg
 creator:
   author:
     agent_name: Gannal, J.-N. (Jean-Nicolas)
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44609
     wikipedia: http://fr.wikipedia.org/wiki/Jean-Nicolas_Gannal
 description: 'Translation of: Histoire des embaumements'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48078#History-of-Embalming-and-of-Preparations-in-Anatomy-Pathology-and-Natural-Hiistory
 gutenberg_issued: '2015-01-25'
 gutenberg_type: Text
 identifiers:
